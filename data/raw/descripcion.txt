@@ -1,0 +1,5 @@
+MathE is a mathematical platform developed under the MathE project (mathe.pixel-online.org). The dataset has 9546 answers to questions in the Mathematical topics taught in higher education. The file has eight features, named: Student ID, Student Country, Question ID, Type of answer (correct or incorrect), Question level (basic or advanced), Math Topic, Math Subtopic, and Question Keywords. The question level was associated with the professor who submitted the question. The data was obtained from February 2019 until December 2023.
+
+More information is available at:
+https://www.sciencedirect.com/science/article/pii/S2352340924002075?via%3Dihub
+https://dados.ipb.pt//dataset.xhtml?persistentId=doi:10.34620/dadosipb/PW3OWY
