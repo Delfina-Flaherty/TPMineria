@@ -23,7 +23,7 @@ Detalle completo en [`consignas.txt`](consignas.txt).
 ## 📁 Estructura
 
 ```
-tp-mineria-mathe/
+TPMineria/
 ├── data/raw/            # Datos originales (no modificar)
 │   ├── Datos.txt
 │   └── descripcion.txt
@@ -42,8 +42,8 @@ tp-mineria-mathe/
 ## ⚙️ Cómo levantar el entorno
 
 ```bash
-git clone https://github.com/Delfina-Flaherty/tp-mineria-mathe.git
-cd tp-mineria-mathe
+git clone https://github.com/Delfina-Flaherty/TPMineria.git
+cd TPMineria
 
 python -m venv .venv
 # Windows:
@@ -55,15 +55,3 @@ pip install -r requirements.txt
 ```
 
 Después abrí la carpeta en VS Code (o ejecutá `jupyter notebook`) y elegí el kernel `.venv`.
-
-## 🔁 Cómo trabajar en grupo
-
-- Antes de empezar: `git pull`
-- Cada uno trabaja **en su propia notebook** para evitar conflictos (los conflictos en `.ipynb` son difíciles de resolver).
-- Al terminar: `git add .` → `git commit -m "mensaje claro"` → `git push`
-- Si agregás una librería nueva, sumala a `requirements.txt`.
-
-## 📅 Fechas
-
-- Coloquio: desde el 13/11
-- Fecha límite: 11/12 o 14/12
