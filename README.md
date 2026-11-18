@@ -7,10 +7,9 @@ Objetivo: predecir si una respuesta es correcta o incorrecta (`Type of Answer`).
 
 | Integrante | Tarea |
 |---|---|
-| Delfina Flaherty | _a definir_ |
-| _Nombre_ | _a definir_ |
-| _Nombre_ | _a definir_ |
-| _Nombre_ | _a definir_ |
+| Flaherty Delfina | _a definir_ |
+| Erbity Joaquin | _a definir_ |
+| Vignau Pedro| _a definir_ |
 
 ## 📋 Consignas
 
