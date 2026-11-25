@@ -3,15 +3,13 @@
 Análisis del dataset **MathE**: 9.546 respuestas de estudiantes a preguntas de matemática de nivel universitario.
 Objetivo: predecir si una respuesta es correcta o incorrecta (`Type of Answer`).
 
-## 👥 Integrantes y reparto de tareas
+## Integrantes
 
-| Integrante | Tarea |
-|---|---|
-| Flaherty Delfina | _a definir_ |
-| Erbity Joaquin | _a definir_ |
-| Vignau Pedro| _a definir_ |
+- Flaherty Delfina 18018/1
+- Erbity Joaquin 
+- Vignau Pedro
 
-## 📋 Consignas
+## Consignas
 
 1. **EDA** del dataset y transformación de variables categóricas a numéricas.
 2. **Clasificación**: dos técnicas, 5 configuraciones de hiperparámetros cada una, evaluadas con cross-validation. Promediar métricas y comparar.
@@ -19,7 +17,7 @@ Objetivo: predecir si una respuesta es correcta o incorrecta (`Type of Answer`).
 
 Detalle completo en [`consignas.txt`](consignas.txt).
 
-## 📁 Estructura
+## Estructura
 
 ```
 TPMineria/
@@ -38,7 +36,7 @@ TPMineria/
 └── consignas.txt
 ```
 
-## ⚙️ Cómo levantar el entorno
+## Cómo levantar el entorno
 
 ```bash
 git clone https://github.com/Delfina-Flaherty/TPMineria.git
